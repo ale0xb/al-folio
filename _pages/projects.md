@@ -97,6 +97,22 @@ description: That's it! A selection of my visualization works, mostly about digi
 </div>
 
 <div class="project">
+    <h3>Food Pyramid Game</h3>
+    <div class="thumbnail">
+        <img class="thumbnail" src="../assets/gif/foodpyramid.gif">
+    </div>
+    <div>
+        <p>Not so much about visualization, but this was a participatory design experience of a game with girls from socially-vulnerable backgrounds in the context of the <a href="https://www.oeaw.ac.at/acdh/projects/exploreat/">exploreAT!</a> project.</p>
+    </div>
+        <div>
+        <a href="https://exploreat.acdh-dev.oeaw.ac.at/exploreAT-unhealthy-healthy/" target="_blank"><i class="fas fa-link" aria-hidden="true"></i></a>
+        <a href="https://github.com/acdh-oeaw/exploreAT-unhealthy-healthy" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+        <a href="https://dl.acm.org/doi/10.1145/3427380" target="_blank"><i class="fas fa-book" aria-hidden="true"></i></a>
+        <a href="../assets/bibtex/playing_design.bib" target="_blank">BibTeX</a>
+    </div>
+</div>
+
+<div class="project">
     <h3>Quantile Dotplot</h3>
     <div class="thumbnail">
         <img class="thumbnail" src="../assets/gif/quantile.gif">
@@ -205,17 +221,6 @@ description: That's it! A selection of my visualization works, mostly about digi
         <p>Exploring lexicographic questionnaires and concepts in a chord diagram. Built in the context of the <a href="https://www.oeaw.ac.at/acdh/projects/exploreat/">exploreAT!</a> project.</p>
     </div>
 </div>
-
-<div class="project">
-    <h3>Food Pyramid Game</h3>
-    <div class="thumbnail">
-        <img class="thumbnail" src="../assets/gif/foodpyramid.gif">
-    </div>
-    <div>
-        <p>Not so much about visualization, but this was a participatory design experience of a game with girls from socially-vulnerable backgrounds in the context of the <a href="https://www.oeaw.ac.at/acdh/projects/exploreat/">exploreAT!</a> project.</p>
-    </div>
-</div>
-
 
 <div class="project">
     <h3>Internal Migrations in Spain (2016)</h3>

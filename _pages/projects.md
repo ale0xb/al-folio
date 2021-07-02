@@ -208,12 +208,15 @@ description: That's it! A selection of my visualization works, mostly about digi
         <img class="thumbnail" src="../assets/gif/depositions.gif">
     </div>
     <div>
-        <p>Exploring Austria's Culture through the Language Glass</p>
+        <p>I made this simple Dashboard with Plot.ly's Dash</p>
+    </div>
+    <div>
+        <a href="https://github.com/providedh/1641-depositions-vis" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
     </div>
 </div>
 
 <div class="project">
-    <h3>Concepts in a Chord Diagram</h3>
+    <h3>Inter-Concept Relationships in a Chord Diagram</h3>
     <div class="thumbnail">
         <img class="thumbnail" src="../assets/gif/questionnaireexplorer.gif">
     </div>
